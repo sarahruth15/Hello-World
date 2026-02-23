@@ -1,11 +1,11 @@
 # Table of Contents 
-## About Me [Link Text](#About-Me)
-## Project Title [Link Text](#Project-Title)
-## Description [Link Text](#Description)
-## Tools Used [Link Text](#Tools-Used)
-## Files Used [Link Text](#Files-Used)
-## How to Run Program [Link Text](#How-to-Run-Program)
-## Additional Information [Link Text](#Additional-Information)
+## About Me[Link Text](#About-Me)
+## Project Title[Link Text](#Project-Title)
+## Description[Link Text](#Description)
+## Tools Used[Link Text](#Tools-Used)
+## Files Used[Link Text](#Files-Used)
+## How to Run Program[Link Text](#How-to-Run-Program)
+## Additional Information[Link Text](#Additional-Information)
 
 
 # About Me
