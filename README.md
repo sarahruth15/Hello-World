@@ -20,7 +20,8 @@ _Hello World Sample_
 
 # Description
 
-This project consists of me making my first repository on GitHub
+- This project consists of me making my first repository on GitHub
+- I hope I did this right!
 
 # Tools Used
 
