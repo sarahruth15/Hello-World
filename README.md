@@ -8,6 +8,8 @@
 ## [Additional Information](#Additional-Information)
 
 
+
+
 # About Me
 
 I am a sophomore at the University of Iowa majoring in both Marketing and Business Analytics and Information Systems
@@ -26,7 +28,7 @@ Instructions on ICON
 
 # Files Used
 
-[(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)]
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 # How to Run Program
 
