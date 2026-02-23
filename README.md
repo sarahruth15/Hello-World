@@ -25,7 +25,7 @@ _Hello World Sample_
 
 # Tools Used
 
-Instructions on ICON
+Instructions on ICON '#0969DA'
 
 # Files Used
 
