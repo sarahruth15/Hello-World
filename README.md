@@ -25,7 +25,7 @@ _Hello World Sample_
 
 # Tools Used
 
-Instructions on ICON '#0969DA'
+Instructions on ICON rgb(9, 105, 218)
 
 # Files Used
 
