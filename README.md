@@ -1,5 +1,5 @@
 # Table of Contents 
-## About Me[Link Text](#About-Me)
+## [About Me](#About-Me)
 ## Project Title[Link Text](#Project-Title)
 ## Description[Link Text](#Description)
 ## Tools Used[Link Text](#Tools-Used)
